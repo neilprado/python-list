@@ -1,6 +1,6 @@
 # Lista de exercícios usando estruturas de decisão if/elif/else
 
-1. Escreva um programa em Python que leia um caractere digitado pelo usuário e verifique se a letra digitada é vogal ou consoante. (Lembrando que o Python é case sensitive, use o método `.lower()` ou `.ùpper()` na hora de realizar a comparação)
+1. Escreva um programa em Python que leia um caractere digitado pelo usuário e verifique se a letra digitada é vogal ou consoante. (Lembrando que o Python é case sensitive, use o método `.lower()` ou `.upper()` na hora de realizar a comparação)
 
 2. Escreva um programa em Python que leia três números inteiros e mostre qual deles é o maior.
 
@@ -41,7 +41,8 @@
     | ------- | :---------------------: |
     | 1 | Celsius para Fahrenheit |
     | 2 | Fahrenheit para Celsius |
-    De acordo com a escolha, informe um valor e calcule a conversão de acordo com a seguinte fórmula.
+
+De acordo com a escolha, informe um valor e calcule a conversão de acordo com a seguinte fórmula.
 
 Para converter de fahrenheit para celsius:
 
